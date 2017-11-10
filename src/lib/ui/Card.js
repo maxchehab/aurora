@@ -9,7 +9,6 @@ const Card = styled.div`
   padding: ${props => props.theme.spacing.extraPadding};
   margin-bottom: ${props => props.theme.spacing.extraPadding};
   box-sizing: border-box;
-  max-width: 100%;
   overflow: hidden;
 `;
 
