@@ -52,4 +52,4 @@ const StyledSplitPaneContainer = styled.div`
   }
 `;
 
-export { StyledSplitPaneContainer };
+export default StyledSplitPaneContainer;
